@@ -2,8 +2,10 @@
 
 Будет модифицироваться по мере необходимости под свои троебования.
 
-В случае вопросов, обращаться  
-email: info@bghelp.ru  
+В случае вопросов, обращаться:
+
+email: info@bghelp.ru
+
 phone: +7 (812) 509-27-71  
 
 [square]
@@ -16,9 +18,10 @@ phone: +7 (812) 509-27-71
 
 Will be modified as necessary to fit your trials.
 
-In case of questions, contact
+In case of questions, contact:
+
 email: info@bghelp.ru
 
 [square]
-* link: https: //bghelp.ru [my site]
-* link: https: //bgerp.ru [site of the original project]
+* link:https://bghelp.ru[my site]
+* link:https://bgerp.ru[site of the original project]
